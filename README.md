@@ -20,4 +20,4 @@ Ex: Fazer arroz
 Então é certo dizer que cada trecho do código que escrevemos é um algoritmo.
 
 ## Pesquisa Binária
-[Pesquisa Binária](.\pesquisa_binaria\index.md)
+[Pesquisa Binária](./pesquisa_binaria/index.md)
