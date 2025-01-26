@@ -21,3 +21,6 @@ Então é certo dizer que cada trecho do código que escrevemos é um algoritmo.
 
 ## Pesquisa Binária
 [Pesquisa Binária](./pesquisa_binaria/index.md)
+
+## Notação Big O
+[Notação Big O](./notacao_bigO/index.md)
