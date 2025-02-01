@@ -26,4 +26,4 @@ Então é certo dizer que cada trecho do código que escrevemos é um algoritmo.
 [Notação Big O](./notacao_bigO/index.md)
 
 ## Ordenação por seleção
-[Ordenação por seleção](./ordenacao_selecao/index.md); (incompleto)
+[Ordenação por seleção](./ordenacao_selecao/index.md) (incompleto)
